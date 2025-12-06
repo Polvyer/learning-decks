@@ -46,24 +46,28 @@ Because you can’t think creatively or solve problems without something to buil
 
 Because retrieval strengthens memory and interrupts forgetting, and it shows you what you know and don’t know. Rereading only makes things feel familiar without building lasting memory.
 
+#### Card 6 — Why do students avoid or undervalue testing?
+
+Because they think tests only judge their performance or worth, so they see testing as stressful evaluation instead of a learning tool — and don’t realize retrieval makes learning stick.
+
 --------------------------------------------------------
 
 ### Knowledge: The Takeaway
 
-#### Card 6 — What is one of the most important habits learners should use to avoid illusions of knowing and learn more effectively?
+#### Card 7 — What is one of the most important habits learners should use to avoid illusions of knowing and learn more effectively?
 
 Regular self-quizzing — using retrieval to check what you actually know and what you don’t.
 
 <!-- fold-end Chapter 1 -->
 
-## Chapter 2 — Learning Is Misunderstood
+## Chapter 2 — To Learn, Retrieve
 
 --------------------------------------------------------
 
-### [EMPTY]
+### Reflection Is a Form of Practice
 
-#### Card 7 — [EMPTY]
+#### Card 8 — How does reflection strengthen learning beyond what you got from the first time you learned or did something?
 
-[EMPTY]
+Because reflection makes you retrieve the experience, connect it to what you already know, analyze what worked or didn’t, and think through how to improve next time — adding new insight beyond the original moment.
 
 <!-- fold-end Chapter 2 -->
