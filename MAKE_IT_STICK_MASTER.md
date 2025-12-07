@@ -68,8 +68,14 @@ Your Anki cards should not include chapter or subheading labels.
 
   Because spaced, effortful recall makes your brain rebuild the memory each time, which makes it much stronger and easier to access later. Rereading doesn’t force that rebuilding process.
 
-  #### Card 11 — Why do people misunderstand the testing effect?
+ ### Studying the Testing Effect in the Lab
 
-  Because they think testing only measures learning instead of realizing that the act of recalling is what actually creates the learning.
+  #### Card 11 - What effect does taking a test have on forgetting?
+
+  Because taking a test slows or nearly stops forgetting — retrieval stabilizes memory so later forgetting drops sharply.
+
+  #### Card 12 - Why is spaced retrieval more effective than massed retrieval?
+
+  Because spacing lets some forgetting happen, making each retrieval effortful — and effortful recall strengthens memory far more than easy, back-to-back practice.
 
 <!-- fold-end Chapter 2 -->
