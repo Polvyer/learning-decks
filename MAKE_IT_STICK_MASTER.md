@@ -18,7 +18,7 @@ Your Anki cards should not include chapter or subheading labels.
 
   #### Card 2 — Why doesn’t repetition alone produce durable learning?
 
-  Because it doesn’t require effortful retrieval — without retrieval, the memory trace doesn’t strengthen, so it fades quickly.
+  Because just running over the same material doesn’t make your brain work to bring it back on its own, so the memory stays weak and fades quickly.
 
  ### Illusions of Knowing
 
@@ -34,9 +34,9 @@ Your Anki cards should not include chapter or subheading labels.
 
  ### Knowledge: Testing: Dipstick versus Learning Tool
 
-  #### Card 5 — Why is testing (retrieval) more effective for learning than rereading or review?
+  #### Card 5 — Why is testing more effective for learning than rereading or review?
 
-  Because retrieval strengthens memory and interrupts forgetting, and it shows you what you know and don’t know. Rereading only makes things feel familiar without building lasting memory.
+  Because testing strengthens memory and interrupts forgetting, and it shows you what you know and don’t know. Rereading only makes things feel familiar without building lasting memory.
 
   #### Card 6 — Why do students avoid or undervalue testing?
 
@@ -66,7 +66,7 @@ Your Anki cards should not include chapter or subheading labels.
 
   #### Card 10 — Why does spaced, effortful retrieval strengthen memory more than rereading?
 
-  Because spaced, effortful recall consolidates memory and builds stronger retrieval pathways, while rereading only creates a feeling of familiarity without strengthening the memory itself.
+  Because spaced, effortful recall makes your brain rebuild the memory each time, which makes it much stronger and easier to access later. Rereading doesn’t force that rebuilding process.
 
   #### Card 11 — Why do people misunderstand the testing effect?
 
