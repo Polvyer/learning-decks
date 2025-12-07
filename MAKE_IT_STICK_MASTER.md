@@ -78,4 +78,28 @@ Your Anki cards should not include chapter or subheading labels.
 
   Because spacing lets some forgetting happen, making each retrieval effortful — and effortful recall strengthens memory far more than easy, back-to-back practice.
 
+ ### Studying the Testing Effect “In the Wild”
+
+  #### Card 13 - What key difference did research show between reexposure and retrieval?
+
+  Reexposure gives short-term performance boosts, but only retrieval creates long-term retention.
+
+ ### Exploring Nuances
+  
+  #### Card 14 - What two unexpected learning benefits did research find that retrieval provides beyond remembering the material itself?
+
+  Retrieval boosts transfer (using the knowledge in new contexts) and strengthens access to related information you were never tested on.
+
+  #### Card 15 — Why does delayed feedback usually strengthen learning more than immediate feedback?
+
+  Because delayed feedback makes you attempt retrieval first, then correct it afterward — giving you effortful practice and spaced reinforcement. Immediate (during-the-attempt) feedback interrupts retrieval and creates dependence on constant cues.
+
+  #### Card 16 - What are the indirect classroom benefits of frequent low-stakes testing?
+
+  It increases attendance, boosts studying before class, improves attentiveness, reduces test anxiety, helps students calibrate what they know, and helps instructors identify learning gaps.
+
+  #### Card 17 - Which types of retrieval produce the strongest long-term learning, and why?
+
+  Retrieval that requires you to supply the answer (free recall, short answer, flashcards) strengthens memory the most because it demands more cognitive effort. Recognition-based tests (multiple choice, true/false) help too, but they provide cues and require less effort, so the learning is weaker.
+
 <!-- fold-end Chapter 2 -->
