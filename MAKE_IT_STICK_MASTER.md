@@ -122,7 +122,7 @@ Your Anki cards should not include chapter or subheading labels.
 
  ### The Myth of Massed Practice
 
-  #### Card 21 - Why does massed practice create an illusion of learning?
+  #### Card 21 - WWhy do humans keep choosing massed practice even when it doesn’t work?
 
   Because massed practice produces rapid, visible performance gains, which feel like learning, but those gains rely on short-term memory and fade quickly, hiding the rapid forgetting that follows.
 
