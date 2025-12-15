@@ -102,4 +102,30 @@ Your Anki cards should not include chapter or subheading labels.
 
   Retrieval that requires you to supply the answer (free recall, short answer, flashcards) strengthens memory the most because it demands more cognitive effort. Recognition-based tests (multiple choice, true/false) help too, but they provide cues and require less effort, so the learning is weaker.
 
+  ### The Takeaway
+
+   #### Card 18 Why does delayed retrieval after an initial test strengthen learning more than immediate retrieval?
+
+   Because after an initial test, waiting before retrieving again allows some forgetting, which makes the next retrieval effortful. Effortful retrieval strengthens the memory far more than easy recall, so delayed retrieval produces greater long-term retention.
+
+   #### Card 19 - Why does repeated retrieval make knowledge more flexible and usable in varied contexts?
+
+   Because each successful retrieval strengthens the memory and builds additional retrieval pathways, making the knowledge easier to access and apply in new contexts. Research shows repeated retrieval improves transfer and the ability to use knowledge in varied situations.
+
+   #### Card 20 - Why is corrective feedback after retrieval essential for preventing incorrect learning?
+
+   Because without feedback, students may retain incorrect answers. Corrective feedback ensures that retrieval strengthens the right information rather than reinforcing errors.
+
 <!-- fold-end Chapter 2 -->
+
+## Chapter 3 — Mix Up Your Practice
+
+ ### Intro
+
+  #### Card 21 - Why does massed practice create an illusion of learning?
+
+  Because massed practice produces rapid, visible performance gains, which feel like learning, but those gains rely on short-term memory and fade quickly, hiding the rapid forgetting that follows.
+
+  #### Card 22 - What tradeoff does spaced practice make compared to massed practice?
+
+  Spaced practice sacrifices fast, easy improvements in exchange for slower progress that produces longer retention, better mastery, and greater versatility.
