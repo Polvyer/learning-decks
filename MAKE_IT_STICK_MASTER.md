@@ -120,7 +120,7 @@ Your Anki cards should not include chapter or subheading labels.
 
 ## Chapter 3 — Mix Up Your Practice
 
- ### Intro
+ ### The Myth of Massed Practice
 
   #### Card 21 - Why does massed practice create an illusion of learning?
 
