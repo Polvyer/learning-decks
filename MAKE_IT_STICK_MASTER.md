@@ -60,10 +60,6 @@ Your Anki cards should not include chapter or subheading labels.
 
  ### The Testing Effect
 
-  #### Card 9 — What is the testing effect?
-
-  The testing effect is the finding that actively retrieving information makes learning stick far better than simply restudying it.
-
   #### Card 10 — Why does spaced, effortful retrieval strengthen memory more than rereading?
 
   Because spaced, effortful recall makes your brain rebuild the memory each time, which makes it much stronger and easier to access later. Rereading doesn’t force that rebuilding process.
