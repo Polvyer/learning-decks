@@ -18,7 +18,7 @@ Your Anki cards should not include chapter or subheading labels.
 
   #### Card 3 — Rereading often feels like learning, but testing often feels harder. Explain why rereading can mislead you about mastery, what testing reveals that it can’t, and what habit you should use because of that.
 
-  Rereading creates familiarity that can mimic mastery even if you can’t recall the material from memory. Testing forces you to try to recall it, which shows what you know and don’t know yet (your gaps). So your default habit should be regular self-quizzing.
+  Rereading creates familiarity that can mimic mastery even if you can’t recall the material. Testing forces you to try to recall it, which shows what you know and don’t know yet (your gaps). So your default habit should be regular self-quizzing.
 
 <!-- fold-end Chapter 1 -->
 
