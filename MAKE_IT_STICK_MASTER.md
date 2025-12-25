@@ -114,7 +114,7 @@ Your Anki cards should not include chapter or subheading labels.
 
    #### Card 20 - Why is corrective feedback necessary after retrieval?
 
-   Because without feedback, incorrect answers may be reinforced. Corrective feedback ensures retrieval strengthens the right information instead of errors.
+   Because retrieval can reinforce wrong answers; feedback corrects mistakes before they become learned.
 
 <!-- fold-end Chapter 2 -->
 
