@@ -70,10 +70,6 @@ Your Anki cards should not include chapter or subheading labels.
 
   Because taking a test slows or nearly stops forgetting — retrieval stabilizes memory so later forgetting drops sharply.
 
-  #### Card 12 - Why is spaced retrieval more effective than massed retrieval?
-
-  Because spacing lets some forgetting happen, making each retrieval effortful — and effortful recall strengthens memory far more than easy, back-to-back practice.
-
  ### Studying the Testing Effect “In the Wild”
 
   #### Card 13 - What key difference did research show between reexposure and retrieval?
