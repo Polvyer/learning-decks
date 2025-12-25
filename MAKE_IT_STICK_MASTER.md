@@ -96,15 +96,15 @@ Your Anki cards should not include chapter or subheading labels.
 
   ### The Takeaway
 
-   #### Card 18 - Why does spacing retrieval (including delaying a re-test) strengthen learning more than massed or immediate practice?
+   #### Why does spacing retrieval (including delaying a re-test) strengthen learning more than massed or immediate retrieval?
 
    Because spacing allows forgetting, which makes retrieval effortful, and effortful retrieval strengthens memory far more than easy recall.
 
-   #### Card 19 - Why does repeated retrieval make knowledge more flexible and usable in varied contexts?
+   #### Why does repeated retrieval help you apply knowledge in new contexts?
 
-   Because each successful retrieval strengthens the memory and builds additional retrieval pathways, making the knowledge easier to access and apply in new contexts. Research shows repeated retrieval improves transfer and the ability to use knowledge in varied situations.
+   Because it builds multiple retrieval pathways.
 
-   #### Card 20 - Why is corrective feedback necessary after retrieval?
+   #### Why is corrective feedback necessary after retrieval?
 
    Because retrieval can reinforce wrong answers; feedback corrects mistakes before they become learned.
 
