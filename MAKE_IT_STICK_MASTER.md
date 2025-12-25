@@ -1,10 +1,14 @@
-# Make It Stick — Core Concepts (Anki Source Notes)
+# Make It Stick (Anki Source Notes)
 
 A curated set of durable learning principles worth turning into Anki cards.  
 Metadata is included here only for organization.  
 Your Anki cards should not include chapter or subheading labels.
 
 --------------------------------------------------------
+
+## Core Principles
+
+
 
 ## Chapter 1 — Learning Is Misunderstood
 
@@ -37,10 +41,6 @@ Your Anki cards should not include chapter or subheading labels.
   #### Card 5 — Why is testing more effective for learning than rereading or review?
 
   Because testing strengthens memory and interrupts forgetting, and it shows you what you know and don’t know. Rereading only makes things feel familiar without building lasting memory.
-
-  #### Card 6 — Why do students avoid or undervalue testing?
-
-  Because they think tests only judge their performance or worth, so they see testing as stressful evaluation instead of a learning tool — and don’t realize retrieval makes learning stick.
 
  ### Knowledge: The Takeaway
 
