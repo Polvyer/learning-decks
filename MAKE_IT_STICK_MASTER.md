@@ -6,47 +6,19 @@ Your Anki cards should not include chapter or subheading labels.
 
 --------------------------------------------------------
 
-## Core Principles
-
-<!-- fold-end Core Principles -->
-
 ## Chapter 1 — Learning Is Misunderstood
-
- ### Claims We Make in This Book
 
   #### Card 1 — Why is the “learning styles” idea (visual, auditory, etc.) a myth?
 
-  Because research shows people don’t learn better when instruction matches a preferred style; learning improves more by using multiple forms of intelligence and going wide with varied methods.
+  Because studies don’t show better learning when teaching matches a preferred style; people learn better when they learn the same thing in a few different ways (not just one).
 
- ### People Misunderstand Learning
-
-  #### Card 2 — Why doesn’t repetition alone produce durable learning?
-
-  Because just running over the same material doesn’t make your brain work to bring it back on its own, so the memory stays weak and fades quickly.
-
- ### Illusions of Knowing
-
-  #### Card 3 — Why does rereading feel productive even though it isn’t?
-
-  Because rereading increases fluency (familiarity), and fluency creates a false sense of mastery even when you can’t actually recall or use the ideas.
-
- ### Knowledge: Not Sufficient, but Necessary
-
-  #### Card 4 — Why is knowledge a necessary foundation for creativity and higher-level thinking?
+  #### Card 2 — Why is knowledge a necessary foundation for creativity and higher-level thinking?
 
   Because you can’t think creatively or solve problems without something to build on. You need stored knowledge first, or there’s nothing to use, combine, or think with.
 
- ### Knowledge: Testing: Dipstick versus Learning Tool
+  #### Card 3 — Rereading often feels like learning, but testing often feels harder. Explain why rereading can mislead you about mastery, what testing reveals that it can’t, and what habit you should use because of that.
 
-  #### Card 5 — Why is testing more effective for learning than rereading or review?
-
-  Because testing strengthens memory and interrupts forgetting, and it shows you what you know and don’t know. Rereading only makes things feel familiar without building lasting memory.
-
- ### Knowledge: The Takeaway
-
-  #### Card 7 — What is one of the most important habits learners should use to avoid illusions of knowing and learn more effectively?
-
-  Regular self-quizzing — using retrieval to check what you actually know and what you don’t.
+  Rereading creates familiarity that can mimic mastery even if you can’t recall the material from memory. Testing forces you to try to recall it, which shows what you know and don’t know yet (your gaps). So your default habit should be regular self-quizzing.
 
 <!-- fold-end Chapter 1 -->
 
@@ -54,59 +26,59 @@ Your Anki cards should not include chapter or subheading labels.
 
  ### Reflection Is a Form of Practice
 
-  #### Card 8 — How does reflection strengthen learning beyond what you got from the first time you learned or did something?
+  #### Card 4 — How does reflection strengthen learning beyond what you got from the first time you learned or did something?
 
   Because reflection makes you retrieve the experience, connect it to what you already know, analyze what worked or didn’t, and think through how to improve next time — adding new insight beyond the original moment.
 
  ### The Testing Effect
 
-  #### Card 10 — Why does spaced, effortful retrieval strengthen memory more than rereading?
+  #### Card 5 — Why does spaced, effortful retrieval strengthen memory more than rereading?
 
   Because spaced, effortful recall makes your brain rebuild the memory each time, which makes it much stronger and easier to access later. Rereading doesn’t force that rebuilding process.
 
  ### Studying the Testing Effect in the Lab
 
-  #### Card 11 - What effect does taking a test have on forgetting?
+  #### Card 6 - What effect does taking a test have on forgetting?
 
   Because taking a test slows or nearly stops forgetting — retrieval stabilizes memory so later forgetting drops sharply.
 
  ### Studying the Testing Effect “In the Wild”
 
-  #### Card 13 - What key difference did research show between reexposure and retrieval?
+  #### Card 7 - What key difference did research show between reexposure and retrieval?
 
   Reexposure gives short-term performance boosts, but only retrieval creates long-term retention.
 
  ### Exploring Nuances
   
-  #### Card 14 - What two unexpected learning benefits did research find that retrieval provides beyond remembering the material itself?
+  #### Card 8 - What two unexpected learning benefits did research find that retrieval provides beyond remembering the material itself?
 
   Retrieval boosts transfer (using the knowledge in new contexts) and strengthens access to related information you were never tested on.
 
-  #### Card 15 — Why does delayed feedback usually strengthen learning more than immediate feedback?
+  #### Card 9 — Why does delayed feedback usually strengthen learning more than immediate feedback?
 
   Because delayed feedback makes you attempt retrieval first, then correct it afterward — giving you effortful practice and spaced reinforcement. Immediate (during-the-attempt) feedback interrupts retrieval and creates dependence on constant cues.
 
-  #### Card 16 - What are the indirect classroom benefits of frequent low-stakes testing?
+  #### Card 10 - What are the indirect classroom benefits of frequent low-stakes testing?
 
   It increases attendance, boosts studying before class, improves attentiveness, reduces test anxiety, helps students calibrate what they know, and helps instructors identify learning gaps.
 
-  #### Card 17 - Which types of retrieval produce the strongest long-term learning, and why?
+  #### Card 11 - Which types of retrieval produce the strongest long-term learning, and why?
 
-  Retrieval that requires you to supply the answer (free recall, short answer, flashcards) strengthens memory the most because it demands more cognitive effort. Recognition-based tests (multiple choice, true/false) help too, but they provide cues and require less effort, so the learning is weaker.
+  Retrieval that requires you to supply the answer (free recall, short answer, flashcards) produces the strongest learning because it demands more cognitive effort. Recognition-based tests (multiple choice, true/false) provide cues and require less effort, so learning is weaker.
 
-  ### The Takeaway
+ ### The Takeaway
 
-   #### Why does spacing retrieval (including delaying a re-test) strengthen learning more than massed or immediate retrieval?
+  #### Card 12 - Why does spacing retrieval (including delaying a re-test) strengthen learning more than massed or immediate retrieval?
 
-   Because spacing allows forgetting, which makes retrieval effortful, and effortful retrieval strengthens memory far more than easy recall.
+  Because spacing allows forgetting, which makes retrieval effortful, and effortful retrieval strengthens memory far more than easy recall.
 
-   #### Why does repeated retrieval help you apply knowledge in new contexts?
+  #### Card 13 - Why does repeated retrieval help you apply knowledge in new contexts?
 
-   Because it builds multiple retrieval pathways.
+  Because it builds multiple retrieval pathways.
 
-   #### Why is corrective feedback necessary after retrieval?
+  #### Card 14 - Why is corrective feedback necessary after retrieval?
 
-   Because retrieval can reinforce wrong answers; feedback corrects mistakes before they become learned.
+  Because retrieval can reinforce wrong answers; feedback corrects mistakes before they become learned.
 
 <!-- fold-end Chapter 2 -->
 
