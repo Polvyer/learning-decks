@@ -8,15 +8,15 @@ Your Anki cards should not include chapter or subheading labels.
 
 ## Chapter 1 — Learning Is Misunderstood
 
-  #### Card 1 — Why is the “learning styles” idea (visual, auditory, etc.) a myth?
+  #### C01-01 — Why is the “learning styles” idea (visual, auditory, etc.) a myth?
 
   Because studies don’t show better learning when teaching matches a preferred style; people learn better when they learn the same thing in a few different ways (not just one).
 
-  #### Card 2 — Why is knowledge a necessary foundation for creativity and higher-level thinking?
+  #### C01-02 — Why is knowledge a necessary foundation for creativity and higher-level thinking?
 
   Because you can’t think creatively or solve problems without something to build on. You need stored knowledge first, or there’s nothing to use, combine, or think with.
 
-  #### Card 3 — Rereading often feels like learning, but testing often feels harder. Explain why rereading can mislead you about mastery, what testing reveals that it can’t, and what habit you should use because of that.
+  #### C01-03 — Rereading often feels like learning, but testing often feels harder. Explain why rereading can mislead you about mastery, what testing reveals that it can’t, and what habit you should use because of that.
 
   Rereading creates familiarity that can mimic mastery even if you can’t recall the material. Testing forces you to try to recall it, which shows what you know and don’t know yet (your gaps). So your default habit should be regular self-quizzing.
 
