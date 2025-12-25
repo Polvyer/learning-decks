@@ -8,7 +8,7 @@ Your Anki cards should not include chapter or subheading labels.
 
 ## Core Principles
 
-
+<!-- fold-end Core Principles -->
 
 ## Chapter 1 — Learning Is Misunderstood
 
@@ -100,9 +100,9 @@ Your Anki cards should not include chapter or subheading labels.
 
   ### The Takeaway
 
-   #### Card 18 Why does delayed retrieval after an initial test strengthen learning more than immediate retrieval?
+   #### Card 18 - Why does spacing retrieval (including delaying a re-test) strengthen learning more than massed or immediate practice?
 
-   Because after an initial test, waiting before retrieving again allows some forgetting, which makes the next retrieval effortful. Effortful retrieval strengthens the memory far more than easy recall, so delayed retrieval produces greater long-term retention.
+   Because spacing allows forgetting, which makes retrieval effortful, and effortful retrieval strengthens memory far more than easy recall.
 
    #### Card 19 - Why does repeated retrieval make knowledge more flexible and usable in varied contexts?
 
