@@ -56,12 +56,46 @@ Your Anki cards should not include chapter or subheading labels.
 
 ## Chapter 3 — Mix Up Your Practice
 
- ### The Myth of Massed Practice
+  #### C03-01 - What’s the problem with massed practice, and what three features make practice more effective?
 
-  #### Card 21 - WWhy do humans keep choosing massed practice even when it doesn’t work?
+  Massed practice shows fast improvement, but rapid forgetting comes later and is easy to miss. Practice works better when it’s spaced, interleaved, and varied—it feels harder, but it produces better mastery, retention, and versatility/transfer.
 
-  Because massed practice produces rapid, visible performance gains, which feel like learning, but those gains rely on short-term memory and fade quickly, hiding the rapid forgetting that follows.
+  #### C03-02 - Why does spaced practice work better than massed practice at the level of consolidation (two reasons)?
 
-  #### Card 22 - What tradeoff does spaced practice make compared to massed practice?
+  Spaced practice works better because consolidation unfolds over hours to days (durable learning needs time). Rapid-fire practice leans on short-term memory, whereas retrieving after a little forgetting requires more effort, retriggers consolidation, and further strengthens memory.
 
-  Spaced practice sacrifices fast, easy improvements in exchange for slower progress that produces longer retention, better mastery, and greater versatility.
+  #### C03-03 - Interleaving hurts what during practice, and forces you to do what on each problem?
+
+  Interleaving mixes problem types/procedures, which slows and confuses learning during practice, but forces you to discriminate/choose the right method instead of going on autopilot.
+
+  #### C03-04 - Why does varied practice transfer better to new situations?
+
+  Because you practice the same skill in different setups, so you learn how to adjust instead of memorizing one exact version.
+
+  #### C03-05 - In real life/exams, problems are mixed. What skill do interleaving + varied practice train that massed practice doesn’t?
+
+  Discrimination: getting good at deciding ‘what kind of problem is this?’ so you can pick the right solution instead of assuming it’s the same one as the last rep.
+
+  #### C03-06 - Why does practicing on real or simulated patients improve performance more than reading about procedures?
+
+  Because retrieval practice is most effective when it matches how the knowledge will be used later; book learning alone is not enough.
+
+  #### C03-07 - Why isn’t solving harder and harder problems enough to maintain performance?
+
+  Because fundamentals decay without maintenance; you must keep practicing them from time to time, forever.
+
+  #### C03-08 - When full practice isn’t possible, what kind of rehearsal can still strengthen performance?
+
+  Mentally rehearse the steps and possible adjustments to simulate what might happen.
+
+  #### C03-09 - How long should you wait between practice sessions?
+
+  Long enough that it’s not mindless repetition—at least enough for a little forgetting—but not so long that retrieval becomes relearning.
+
+  #### C03-10 - In interleaving, when do you switch topics/skills?
+
+  Before each practice set is complete—you don’t finish one topic then move to another.
+
+  #### C03-11 - Why do you need to shuffle your flashcards?
+
+  If you always practice in the same order, it’s like an old LP that plays songs in the same sequence—practice becomes predictable and starves learning of real variety.
