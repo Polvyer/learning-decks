@@ -4,6 +4,9 @@ A curated set of durable learning principles worth turning into Anki cards.
 Metadata is included here only for organization.  
 Your Anki cards should not include chapter or subheading labels.
 
+(Ch. 1 & 2 last reviewed Dec 25, Jan 4)
+(Ch. 3 last reviewed Dec 30, Jan 4)
+(Ch. 4 last reviewed Jan 10)
 --------------------------------------------------------
 
 ## Chapter 1 — Learning Is Misunderstood
@@ -99,3 +102,87 @@ Your Anki cards should not include chapter or subheading labels.
   #### C03-11 - Why do you need to shuffle your flashcards?
 
   If you always practice in the same order, it’s like an old LP that plays songs in the same sequence—practice becomes predictable and starves learning of real variety.
+
+<!-- fold-end Chapter 3 -->
+
+## Chapter 4 — Embrace Difficulties
+
+  #### C04-01 — What does it mean that “testing is the principal instructional medium”?
+
+  The “lesson” is structured around performance attempts—“the test is in the doing”—rather than note-taking.
+
+  #### C04-02 — Why can someone “know” something yet fail to produce it on demand?
+
+  Because the knowledge may be securely anchored in long-term memory but not sufficiently associated with diverse retrieval cues, so it isn’t accessible in the current context (anchored ≠ accessible).
+
+  #### C04-03 — What is reconsolidation?
+
+  Reconsolidation is the process by which retrieving a memory from long-term storage makes it modifiable again while strengthening it, allowing it to connect to more recent learning.
+
+  #### C04-04 — What three factors determine how readily you can recall knowledge from your “internal archives”?
+
+  Context, recent use, and the number + vividness of cues linked to the knowledge.
+
+  #### C04-05 — What’s the “paradox” of forgetting in learning?
+
+  Some forgetting (of older competing cues/habits) is often essential for new learning to take hold reliably.
+
+  #### C04-06 — When you “forget” something you once knew well, what is often actually forgotten—and what does recognition show?
+
+  Often it’s the retrieval cues/access that fade or get reassigned, not the knowledge itself; recognition (e.g., multiple choice) can show the memory trace still exists even when free recall fails.
+
+  #### C04-07 - What three characteristics make knowledge “deeply entrenched” and therefore more durable?
+  
+  1. Firm, thorough comprehension of the concept
+  2. Practical importance or keen emotional weight in your life
+  3. Connected to other knowledge you hold in memory
+
+  #### C04-08 — What is the paradox at the heart of “desirable difficulties” in learning?
+
+  That retrieval which requires greater effort—often because knowledge has been partially forgotten—more strongly entrenches and shapes permanent learning than retrieval that feels easy.
+
+  #### C04-09 — During focused, effortful recall, what six things does reconsolidation do to the learning?
+
+  It makes the learning changeable again; the most important aspects become clearer; reconsolidation reinforces meaning, strengthens connections to prior knowledge, improves cues and retrieval routes for recalling it later, and weakens competing routes.
+
+  #### C04-10 — Under what condition does increasing the effort of recall or execution improve learning?
+
+  Only when the effort succeeds; greater effort then produces greater learning benefits.
+  
+  #### C04-11 — What are mental models, and how are they created?
+
+  Mental models are highly efficient skills or knowledge structures formed when effortful practice fuses complex ideas or motor skills into a meaningful whole, so you can use them in many different situations.
+
+  #### C04-12 — In Make It Stick, what is fluency, and why is it an unreliable signal of durable learning?
+
+  Fluency is the feeling of ease/familiarity with a text—how lucid and effortless it seems as you read (especially after rereading). It’s unreliable because fluency illusions make us mistake fluency with a text for mastery of its content, so we overestimate our accessible knowledge and how well we’ll perform later.
+
+  #### C04-13 — What kind of desirable difficulty works by disrupting fluency, why does it work, and when does it stop helping?
+
+  Difficulties that disrupt fluency—like slightly out-of-focus text, harder-to-decipher fonts, omitting letters so you must supply them, or a lecture outline that doesn’t match the textbook order—can improve learning because the disruption forces you to work harder to construct an interpretation that makes sense. That added effort to construct meaning increases comprehension and learning as long as meaning remains recoverable. When the disruption obscures meaning or cannot be overcome, it stops being desirable and learning does not improve.
+
+  #### C04-14 — When the material is already familiar, what minimal “generation” manipulation still boosts later recall?
+
+  Being required to supply the answer (e.g., filling in a blank) rather than being presented with it or simply recognizing it.
+
+  #### C04-15 — When you generate on something you don’t yet know (new material), why can even an incorrect attempt improve learning once the correct answer is provided?
+
+  Because when you cast about for an answer, you retrieve related knowledge from memory and, in doing so, strengthen the route from the question cue to the relevant knowledge network, even before the correct answer is given. Then, when the answer is supplied, that related material is already active, so the new information connects to it and is encoded more deeply than it would be from simply reading the answer (e.g., guessing Dallas? Houston? before learning that Austin is the capital of Texas).
+
+  #### C04-16 — In Make It Stick, distinguish retrieval, generation, elaboration, and reflection—what is each one doing (core operation), how do they relate, and give one example prompt of each.
+
+  Retrieval: bringing learned knowledge to mind (recalling it from memory).
+
+    Example prompt: “Without looking, what are the key ideas from today’s reading?”
+
+  Generation: trying to answer or solve—producing an answer/solution rather than being presented with it (including filling in a blank).
+
+    Example prompt: “Before you check the solution, what do you think the answer is?”
+
+  Elaboration: giving learning meaning by expressing it in your own words and connecting it to what you already know—explaining how the new learning relates to prior knowledge (often with causes, examples, or relationships).
+
+    Example prompt: “In my own words, how does this idea connect to something I already know—what’s a concrete example?”
+
+  Reflection: taking a few minutes to review what was learned and ask yourself questions; reflection can involve retrieval (bring it to mind), elaboration (connect it to what you know), and generation (rephrase/mentally rehearse improvements).
+
+    Example prompt (template): “(Retrieval) What are the key ideas / what happened? (Elaboration) What are some examples and how does this relate to what I already know? (Generation) How would I rephrase it or what would I do differently next time?”
