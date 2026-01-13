@@ -186,3 +186,29 @@ Your Anki cards should not include chapter or subheading labels.
   Reflection: taking a few minutes to review what was learned and ask yourself questions; reflection can involve retrieval (bring it to mind), elaboration (connect it to what you know), and generation (rephrase/mentally rehearse improvements).
 
     Example prompt (template): “(Retrieval) What are the key ideas / what happened? (Elaboration) What are some examples and how does this relate to what I already know? (Generation) How would I rephrase it or what would I do differently next time?”
+
+  #### C04-17 — When does generation ≈ retrieval, and when do they differ?
+
+  Generation = produce-first constraint (you must produce an answer before seeing it).
+
+  Retrieval = successful access to memory (either recall or recognition, depending on cue strength).
+
+  Generation ≈ retrieval when the target is already learned and you must produce it from memory (short-answer, cloze, explain-from-scratch).
+
+  Generation without successful retrieval when you attempt to produce the target but cannot access it, even with cues (ends in feedback / re-exposure).
+
+  Generation with retrieval of related knowledge (new material) when the target is not yet stored, but generation retrieves prior/related knowledge to form an educated guess (pretesting, prediction).
+
+  Retrieval without generation when memory is accessed via recognition or judgment, not production (multiple choice, true/false, matching).
+
+  #### C04-18 — How does fear of failure impair learning and test performance (working memory mechanism)?
+
+  Fear of failure creates anxiety that consumes limited working memory capacity by monitoring performance (“Am I doing well? Am I making mistakes?”), leaving less working memory available to solve the task, which reduces learning and test performance.
+
+  #### C04-19 — Why does writing about what you did (journaling/teaching) strengthen learning?
+
+  Because it forces retrieval of what happened and elaboration by explaining it and connecting it to what you already know—deepening and organizing the learning.
+
+  #### C04-20 — What makes a difficulty “desirable”?
+
+  A difficulty is desirable only if it is overcome-able with increased effort (meaning can still be constructed), and it trains the skills/challenges you’ll face in real-world use (transfer match).
